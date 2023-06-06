@@ -29,8 +29,7 @@ public class PrograPrueba2 {
  */
 
 nombre= JOptionPane.showInputDialog("Digite su nombre:");
-
-
+System.out.println("Este es un mensaje nuevo");
     }
     
 }
